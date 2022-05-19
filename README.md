@@ -35,7 +35,7 @@ composer install
 composer up
 ```
 
-- Será necessário criar o arquivo "env", para espeicificar as credencias do banco de dados e gerar a chave da aplicação, utilize os seguintes comandos:
+- Será necessário criar o arquivo "env", para especificar as credencias do banco de dados e gerar a chave da aplicação, utilize os seguintes comandos:
 
 ```
 copy .env.example .env 
