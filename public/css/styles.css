@@ -1,0 +1,56 @@
+/* General */
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  body {
+    min-height: 100vh;
+    padding-bottom: 100px;
+    position: relative;
+  }
+
+  header {
+    background-color: #FFF;
+    justify-content: space-between;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    padding: 0px 0;
+
+  }
+
+  .show-dice{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #413b3b;
+    padding: 4px 0;
+    font-size: 40px;
+
+  }
+  .nav-link{
+    color: #413b3b;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px
+  }
+
+
+
+  footer {
+    text-align: center;
+    background-color: #353E48;
+    color: #FFF;
+    padding: 30px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+
+  footer p {
+    margin-bottom: 0;
+  }
+
+
+
+
+  .input-group-append {
+    cursor: pointer;
+  }
