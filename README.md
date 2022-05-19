@@ -19,11 +19,11 @@ Node v6.0.0^
 git clone https://github.com/TaianeM/testeelaravel.git
 ```
 
-- Entre no diretório que acabou de ser criado:
+- Entre no que 
 
-```
-cd testelaravel
-```
+
+
+
 
 - Para o projeto funcionar na sua máquina, será necessário instalar suas dependências, para isso, utilize os seguintes comandos:
 
