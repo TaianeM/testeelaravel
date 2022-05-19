@@ -16,7 +16,7 @@ Node v6.0.0^
 - Clone o repositório com o comando **git clone**:
 
 ```
-git clone https://github.com/TaianeM/testelaravel.git
+git clone https://github.com/TaianeM/testeelaravel.git
 ```
 
 - Entre no diretório que acabou de ser criado:
