@@ -19,7 +19,7 @@ Node v6.0.0^
 git clone https://github.com/TaianeM/testeelaravel.git
 ```
 
-- Entre no que 
+
 
 
 
